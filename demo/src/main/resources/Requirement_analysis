@@ -1,0 +1,5 @@
+Garden syatem manage plant for each garden.
+it tracks all data bout garden plant.
+system allows you to add, delete, update and retrieve garden
+also allows you to add, delete, update and retrieve plant.
+system list plant sorted with name and plant date
